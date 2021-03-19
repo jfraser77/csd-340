@@ -1,2 +1,5 @@
 # csd-340
-Dev with HTML
+# CSD 340 Web Development with HTML and CSS
+## Contributors
+* Instructor: Chris Soriano
+* Name: Joe Fraser
