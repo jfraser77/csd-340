@@ -1,0 +1,40 @@
+h1 {
+    background-image: url('images/pattern.webp');
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.brush-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumseagreen;
+}
+
+.image-caption {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.price{
+    font-weight: bold;
+    color: blue;
+}
+
+.frame{
+    color: white;
+    background-color: lightcoral;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.paint{
+    color: white;
+    background-color: skyblue;
+    font-size: 32px;
+    font-weight: bold;
+}
